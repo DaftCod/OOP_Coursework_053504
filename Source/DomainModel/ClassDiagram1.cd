@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DomainModel.BoundedContext" Collapsed="true">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAFAAEAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>BoundedContext.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DomainModel.DomainModel" Collapsed="true">
+    <Position X="2" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAwBAAAAAEAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DomainModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DomainModel.EarthBiologyBoundedContext" Collapsed="true">
+    <Position X="2" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAwAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EarthBiologyBoundedContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DomainModel.EarthBoundedContext" Collapsed="true">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EarthBoundedContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DomainModel.EarthGeographyBoundedContext" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAwAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EarthGeographyBoundedContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DomainModel.EarthPoliticsBoundedContext" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAwAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EarthPoliticsBoundedContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DomainModel.SpaceBoundedContext" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAABAAAAAAwgAAAAAAAAAAAAAACAAAAAAABAAAAA=</HashCode>
+      <FileName>SpaceBoundedContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DomainModel.IBoundedContext" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAEAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IBoundedContext.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="DomainModel.BoundedContextType" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAIAAAAAAAAEAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>DomainModel.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

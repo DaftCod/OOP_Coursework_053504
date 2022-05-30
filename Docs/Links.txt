@@ -1,0 +1,3 @@
+Required tools:
+1. SQL Server Express: https://www.microsoft.com/en-us/Download/details.aspx?id=101064
+2. SQL Management Studio. Please download it here: https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
